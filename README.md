@@ -1,2 +1,2 @@
-# ltspice-playground
+# playground-ltspice
 LTspice® playground
